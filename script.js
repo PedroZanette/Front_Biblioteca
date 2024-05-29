@@ -7,5 +7,5 @@ function Ircadastro(){
 }
 
 function login(){
-    window.location.href="pages/"
+    window.location.href="pages/homeadm.html"
 }
