@@ -9,3 +9,7 @@ function Ircadastro(){
 function login(){
     window.location.href="pages/homeadm.html"
 }
+
+function voltar(){
+    window.location.href="../index.html"
+}
