@@ -1,0 +1,87 @@
+body{
+    background-image: url("./img/Backgroud-livro.jpg");
+    background-size: cover;
+    background-size: 100vw 100vh;
+    height: 100%;
+}
+
+.conteiner{
+    width: 60%;
+    height: fit-content;
+    border-radius: 30px;
+    background-color: azure;
+    position: relative;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+}
+
+.conteiner-cadas{
+    width: 52%;
+    height: fit-content;
+    border-radius: 30px;
+    background-color: azure;
+    position: relative;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 4.5vw;
+}
+
+.radios{
+    display: block;
+}
+.radio{
+    display: flex;
+    text-align: center;
+    width: fit-content;
+    padding: 1%;
+    margin: auto;
+    font-size: 1vw;
+}
+.input{
+    padding: 2vw;
+    width: fit-content;
+    border-radius: 1.9vw;
+    font-size: 1.5vw;
+    display: block;
+    margin: auto;
+    align-items: center;
+} 
+
+label{
+    display: flex;
+    font-size: 2vw;
+    padding: 2%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+
+.form{
+    display: block;
+    margin: auto;
+    align-items: center;
+    color: black;
+}
+
+button{
+    padding: 6vh;
+    border-radius: 2vw;
+    font-size: 1.3vw;
+}
+
+.botao-cadastro{
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    padding: 2%;
+}
+
